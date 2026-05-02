@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I am Rezwanul-Haque!</h1>
 
- **3rd-year Computing Science student** at **Thompson Rivers University**, British Columbia, Canada.   I’m passionate about leveraging technology to solve real-world problems and exploring cutting-edge innovations in computing science.  I’m deeply fascinated working on  intelligent systems and uncovering the transformative potential of AI in various industries.  
+ **4th-year Computing Science student** at **Thompson Rivers University**, British Columbia, Canada.   I’m passionate about leveraging technology to solve real-world problems and exploring cutting-edge innovations in computing science.  I’m deeply fascinated working on  intelligent systems and uncovering the transformative potential of AI in various industries.  
 
 ---
 
