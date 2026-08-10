@@ -1,35 +1,80 @@
-<h1 align="center">Hello 👋, I am Rezwanul-Haque!</h1>
+<h1 align="center">Hi 👋, I'm Rezwanul Haque</h1>
+<h3 align="center">Computing Science Graduate | Software Engineer | Full-Stack & AI Systems</h3>
 
- **4th-year Computing Science student** at **Thompson Rivers University**, British Columbia, Canada.   I’m passionate about leveraging technology to solve real-world problems and exploring cutting-edge innovations in computing science.  I’m deeply fascinated working on  intelligent systems and uncovering the transformative potential of AI in various industries.  
-
----
-
-## 🙋‍♂️ **About Me**
-
-- **Programming**: Proficient in multiple programming languages, with a strong focus on **Python** for scripting, data analysis, and AI, Machine Learning projects.
-- **Web Design**: Crafting modern, intuitive, and functional websites that leave a lasting impression.
-- **AI & Cybersecurity Passionate**: Deeply intrigued by the potential of **Artificial Intelligence** and committed to learning the art of securing systems with **Cybersecurity**.
+<p align="center">
+  Based in Kamloops, BC, Canada 🇨🇦<br/>
+  Building practical software with APIs, AI, automation, and modern web technologies.
+</p>
 
 ---
 
-## 🌱 **Always Learning**
-- AI models and exploring advanced machine learning techniques.  
-- Exploring cybersecurity to understand system vulnerabilities and enhance protection.  
-- Expanding my skillset to stay at the forefront of technological advancements.  
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Computing Science graduate from **Thompson Rivers University**
+- 💻 Interested in **software engineering, full-stack development, backend systems, APIs, cloud/SaaS platforms, and AI-powered applications**
+- 🤖 Hands-on experience with **LLM integration, RAG pipelines, vector embeddings, workflow automation, and PostgreSQL**
+- 🔌 Built systems using **REST APIs, webhooks, Node.js/Express, Python, JavaScript/TypeScript, React, and Supabase**
+- 🧠 Academic/project experience with **C, C++, C#, Java, Docker, PyTorch, and scikit-learn**
+- 🤝 Comfortable working across technical and non-technical teams, documenting systems, and turning requirements into working features
+- 🚀 Currently open to **Software Engineer, Full-Stack, Backend, Platform, AI/ML, and Developer Tools opportunities**
 
 ---
 
-## 🔍 **Looking for Opportunities**
- seeking **co-op opportunities** to apply my skills, collaborate with inspiring teams, and grow professionally. Let’s work together to build something amazing!
+## 🚀 Featured Project
+
+### AI-Powered Emergency Operations Centre Assistant
+**Industry Capstone Project — Innomergence Solutions**
+
+A full-stack AI application designed to help users access operational knowledge through conversational AI.
+
+- Designed and integrated **RESTful APIs and webhook-based services**
+- Built a **RAG pipeline** using Supabase/PostgreSQL and vector embeddings
+- Created **n8n automation workflows** for multi-step AI and data-processing flows
+- Implemented a user-facing interface with **role-based authentication and secure session handling**
+- Produced technical documentation covering architecture, APIs, data models, and deployment workflows
+- Worked through design reviews, testing, iteration, and stakeholder feedback in a team environment
+
+🔗 [Project Overview](https://lnkd.in/gVd8UtMX)
 
 ---
 
-## 📍 **Connect With Me**
-- **Email**: [rezwanulhaque542@gmail.com](mailto:rezwanulhaque542@gmail.com)
--  **Portfolio**: On progress
-- **LinkedIn**: [linkedin.com/in/rezwanul-h](https://linkedin.com/in/rezwanul-h)
+## 🛠️ Technical Skills
+
+### Languages
+`Python` `JavaScript` `TypeScript` `C` `C++` `C#` `Java` `SQL` `HTML` `CSS`
+
+### Frontend
+`React` `HTML5` `CSS3` `Tailwind CSS` `Responsive UI`
+
+### Backend & APIs
+`Node.js` `Express.js` `REST APIs` `Webhooks` `Event-Driven Workflows`
+
+### AI & Data
+`LLM Integration` `RAG` `Vector Embeddings` `PyTorch` `scikit-learn` `PostgreSQL` `Supabase`
+
+### Tools & Practices
+`Git` `GitHub` `Docker` `Linux/Bash` `n8n` `Agile/Scrum` `Testing` `Technical Documentation`
 
 ---
+
+## 🌱 What I'm Exploring
+
+- Scalable backend and platform engineering
+- AI agents, MCP, and developer tooling
+- Cloud-native application development
+- Better testing, observability, and software reliability practices
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** [rezwanulhaque542@gmail.com](mailto:rezwanulhaque542@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rezwanul-h](https://linkedin.com/in/rezwanul-h)
+- **GitHub:** [github.com/Rezwan45](https://github.com/Rezwan45)
+
+---
+
+<p align="center"><i>Always learning, always building.</i></p>
 
 ## Languages and Tools
 
